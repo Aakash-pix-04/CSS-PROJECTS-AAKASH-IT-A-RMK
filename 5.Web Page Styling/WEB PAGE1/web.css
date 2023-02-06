@@ -1,0 +1,20 @@
+body{background-color:pink;}
+
+#list{color:grey;}
+
+div{
+background-color:grey;
+width:100px;
+height:700px;
+
+}
+
+div:hover{
+width:300px;
+height:700px;
+transition:width 2s;
+<h1>hi</h1>
+}
+
+#title{margin-top:-400px;text-align:center;}
+#description{text-align:center;}

@@ -1,0 +1,24 @@
+#backgroundImage{position:absolute;width:1520px;height:730px;}
+
+
+#txttxt{text-align:center; background-color:white;width:400px;height:370px;border-radius:10px;background-color:powderblue;}
+#heading{font-size:25px;}
+#dropDown{width:171px;height:30px;width:250px;}
+#noOfTravellers{width:171px;height:30px;width:250px;}
+#email{width:171px;height:30px;width:250px;}
+#submit{
+
+margin-top:20px;background-color:pink;border-radius:10px;font-size:20px;
+
+}
+label{text-align-last: right;}
+#image{position:absolute;top:90px;left:140px;}
+
+form{position:absolute;margin-left:505px;margin-top:300px;}
+#depature{margin-left:-135px;}
+#txttx{margin-left:-100px;}
+#txtt{margin-left:-180px;}
+
+
+
+	
